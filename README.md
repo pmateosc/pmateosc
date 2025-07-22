@@ -4,7 +4,7 @@
 
 Estudié Ingeniería Electrónica y Automática en la UCLM y siempre he disfrutado participando en proyectos ambiciosos — ¡como construir un coche eléctrico de carreras desde cero durante la universidad!
 
-Tras trabajar con tecnologías RPA y Java en una gran empresa, di el salto al mundo startup como desarrollador fullstack, donde crecí muchísimo. Actualmente, estoy centrado en el desarrollo backend en una **plataforma de movimiento de datos**, construyendo sistemas escalables y aplicando arquitecturas y código limpios.
+Tras trabajar con tecnologías RPA y Java en una gran empresa, di el salto al mundo startup como desarrollador fullstack, donde crecí muchísimo. Actualmente, estoy centrado en el desarrollo backend en una plataforma de movimiento de datos, construyendo sistemas escalables y aplicando arquitecturas y código limpios.
 
 💡 Siempre curioso. Siempre creando.
 
