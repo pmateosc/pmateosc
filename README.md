@@ -1,12 +1,12 @@
 # 👋 ¡Hola!
 
-🚀 Soy desarrollador de software apasionado por aprender continuamente, siempre pensando en construir soluciones a problemas del dia a día.
+🚀 Soy desarrollador de software, apasionado del código limpio. No paro de pensar en la tecnología como una constante solución a los problemas del día a día.
 
-Estudié Ingeniería Electrónica y Automática en la UCLM y siempre he disfrutado participando en proyectos ambiciosos — ¡como construir un coche eléctrico de carreras desde cero durante la universidad!
+⚡️ Estudié Ingeniería Electrónica y Automática en la UCLM y siempre he disfrutado de participar en los proyectos más ambiciosos, el mayor reto fué empezar un coche de Formula Student eléctrico desde cero.
 
-Tras trabajar con tecnologías RPA y Java en una gran empresa, di el salto al mundo startup como desarrollador fullstack, donde crecí muchísimo. Actualmente, estoy centrado en el desarrollo backend en una plataforma de movimiento de datos, construyendo sistemas escalables y aplicando arquitecturas y código limpios.
+💻 Tras trabajar con tecnologías RPA con Java, di el salto al mundo startup como desarrollador fullstack, donde crecí muchísimo profesionalmente aprendiendo los entresijos, dificultades y retos que supone un primer producto. Actualmente, estoy centrado en el desarrollo backend en una plataforma de movimiento de datos, construyendo sistemas escalables y aplicando arquitecturas y código limpios.
 
-💡 Siempre curioso. Siempre creando.
+💡 Siempre curioso. Siempre creando. Siempre aprendiendo.
 
 ---
 
